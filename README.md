@@ -1,18 +1,14 @@
-# C--fundamentals-2023
+C#-fundamentals-2023
 
-learning C#
+About the project
+This is an archive of my mini-projects from the time when I just started learning C#. Collected here are works through which you can trace my path: from the very basics of syntax to fundamental OOP concepts (classes, constructors, encapsulation).
 
-C# Fundamentals (2023 Archive)
+History
+Created: 2023 (I was about 14 years old).
 
-О проекте
-Это архив моих мини-проектов времен, когда я только начинал изучать C#. Здесь собраны работы, по которым можно проследить мой путь: от самых основ синтаксиса до базовых концепций ООП (классы, конструкторы, инкапсуляция).
+Context: I had studied C# before this period, but unfortunately, earlier and larger projects were lost. I decided to gather the surviving code in one place as archival data of my learning.
 
-История
-Создано: 2023 год (мне было около 14 лет).
+What's inside: Mostly practice on language syntax and logic, so don't expect architectural masterpieces from this code. This is the foundation where it all began.
 
-Контекст: Я изучал C# и до этого периода, но более ранние и крупные проекты, к сожалению, были утеряны. Решил собрать выживший код в одном месте как архивные данные своего обучения.
-
-Что внутри: В основном это практика по синтаксису и логике языка, поэтому не ждите от этого кода архитектурных изысков. Это фундамент, с которого всё начиналось.
-
-Настоящее время
-Сейчас на дворе 2026 год, мне 17 лет. Я учусь на 1 курсе (2 семестр) в ASOIU на факультете CS (Computer Science). Планирую развиваться в индустрии дальше и этот архив — напоминание о том, с чего все начилось.
+Present time
+It is now 2026, and I am 17 years old. I am a 1st-year student (2nd semester) at ASOIU in the CS (Computer Science) faculty. I plan to develop further in the industry, and this archive is a reminder of where it all started.
